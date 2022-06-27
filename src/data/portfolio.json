@@ -1,0 +1,96 @@
+[
+    {
+        "portfolioName": "Trustees' Default Portfolio Range",
+        "funds": [
+            {
+                "name": "Liber8 Stable Growth Fund",
+                "fee": "0.60%"
+            },
+            {
+                "name": "Liberty Core Conservative",
+                "fee": "0.60%"
+            },
+            {
+                "name": "Liberty Core Moderate",
+                "fee": "0.60%"
+            },
+            {
+                "name": "Liberty Core Balanced",
+                "fee": "0.60%"
+            }
+        ]
+    },
+    {
+        "portfolioName": "Multi-Managed funds",
+        "funds": [
+            {
+                "name": "STANLIB Multi-Manager Balanced Growth Fund",
+                "fee": "1.40%"
+            },
+            {
+                "name": "STANLIB Multi-Manager Moderate Growth Fund",
+                "fee": "1.40%"
+            },
+            {
+                "name": "STANLIB Multi-Manager Conservative Growth Fund",
+                "fee": "1.40%"
+            }
+        ]
+    },
+    {
+        "portfolioName": "Index-Tracking funds",
+        "funds": [
+            {
+                "name": "Liberty Balanced Tracker Fund",
+                "fee": "0.35%"
+            },
+            {
+                "name": "Liberty Moderate Tracker Fund",
+                "fee": "0.35%"
+            },
+            {
+                "name": "Liberty Conservative Tracker Fund",
+                "fee": "0.35%"
+            }
+        ]
+    },
+    {
+        "portfolioName": "Money Market Portfolio",
+        "funds": [
+            {
+                "name": "Liberty Institutional Money Market Fund",
+                "fee": "0.30%"
+            }
+        ]
+    },
+    {
+        "portfolioName": "Shari'ah Portfolio",
+        "funds": [
+            {
+                "name": "STANLIB Multi-Manager Shari'ah Balanced Fund of Funds",
+                "fee": "1.00%"
+            }
+        ]
+    },
+    {
+        "portfolioName": "Third-Party Balanced funds",
+        "funds": [
+            {
+                "name": "Allan Gray Balanced Fund",
+                "fee": "1.25%"
+            },
+            {
+                "name": "Coronation Balanced Plus Fund",
+                "fee": "1.25%"
+            },
+            {
+                "name": "Ninety One Opportunity Fund",
+                "fee": "1.25%"
+            },
+            {
+                "name": "Prudential Balanced Fund",
+                "fee": "1.25%"
+            }
+        ]
+    }
+]

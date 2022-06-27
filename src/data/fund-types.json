@@ -1,0 +1,14 @@
+[
+    {
+        "name": "UMBRELLA PROVIDENT",
+        "code": "umbrellaProvident"
+    },
+    {
+        "name": "UMBRELLA PENSION",
+        "code": "umbrellaPension"
+    },
+    {
+        "name": "STAND ALONE",
+        "code": "standAlone"
+    }
+]
